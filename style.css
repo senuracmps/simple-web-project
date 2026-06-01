@@ -11,3 +11,13 @@ button{
 img{
     height: 350px;
 }
+
+header{
+    background: rgb(255, 0, 0);
+}
+
+footer{
+    background: gray;
+    padding: 8px;
+    font-size: 12px;
+}
